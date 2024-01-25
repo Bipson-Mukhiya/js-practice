@@ -81,3 +81,26 @@ let a = 3;
 const b = ++a;
 
 console.log(`a:${a}, b:${b}`);
+
+
+let score = null
+console.log(typeof(score))
+let valueinNumber = Number(score)
+console.log(typeof(valueinNumber))
+// console.log(score)
+console.log(valueinNumber)
+console.log(valueinNumber)
+
+
+let isLoggedIn = ""
+let BooleanIsLoogedIn = Boolean(isLoggedIn)
+console.log(BooleanIsLoogedIn)
+
+//1 = true // 0 = false
+
+// "" = falese
+
+let isNumber = 44
+let isStringIsNumber = String(isNumber)
+console.log(isStringIsNumber)
+console.log(typeof isStringIsNumber)
