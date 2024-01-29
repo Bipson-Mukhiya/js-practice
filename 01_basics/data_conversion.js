@@ -104,3 +104,5 @@ let isNumber = 44
 let isStringIsNumber = String(isNumber)
 console.log(isStringIsNumber)
 console.log(typeof isStringIsNumber)
+
+
